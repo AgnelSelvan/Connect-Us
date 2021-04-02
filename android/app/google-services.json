@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "604466194023",
+    "firebase_url": "https://callme-74a99.firebaseio.com",
+    "project_id": "callme-74a99",
+    "storage_bucket": "callme-74a99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604466194023:android:a9a90be8ca743c0a0296c2",
+        "android_client_info": {
+          "package_name": "com.example.call_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604466194023-1u5bdrhi509f0r2g0cfspbtnsurqb6k2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.call_me",
+            "certificate_hash": "d145f04c9baff8d0bae0432ae289d2ddd671227d"
+          }
+        },
+        {
+          "client_id": "604466194023-m2fu9fo8gq1cme9dquubrtcm3daiabq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.call_me",
+            "certificate_hash": "a7f5777727b8a0f413f56ea4f04e484c848ada77"
+          }
+        },
+        {
+          "client_id": "604466194023-tirki6qk6ausfv67n3l4f6ik5k368e2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoijyUIIWBVkgr7GUWC4rFiY6SRny98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604466194023-tirki6qk6ausfv67n3l4f6ik5k368e2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
